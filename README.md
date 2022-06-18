@@ -1,6 +1,6 @@
 # Cloud functions for a React cloud-based online Image Editor
 
-This is the backend codebase for React cloud-based online Image Editor (Repo Url: ), it uses NODE JS and EXPRESS JS for API scripting which is deployed as GOOGLE CLOUD FUNCTIONS. It is completely agnostic to the frontend codebase; making the web application a super scalable and extendable one.
+This is the backend codebase for React cloud-based online Image Editor (Repo Url: https://github.com/mike-obas/inbranded-design), it uses NODE JS and EXPRESS JS for API scripting which is deployed as GOOGLE CLOUD FUNCTIONS. It is completely agnostic to the frontend codebase; making the web application a super scalable and extendable one.
 
 ## How to run this project
 
